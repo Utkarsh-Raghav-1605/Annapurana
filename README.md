@@ -1,16 +1,19 @@
-# annapurna
+# Annapurna
+# Creating a Hunger Free Society
+Video Demo Url:  
 
-Free Food for All
+# How to Deploy
+In order to deploy the app any one of the following approaches can be taken:
+1. Download the apk file given in the repo and install it on a Android System.
+2. Clone the repo locally and execute it on Android SDK on chrome/edge browser.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+##Concise Description
+The UI/UX design is done using Flutter. In the backend we are using Laravel to host the json packages which we are converting to dart models inside our app. We are also working on integrating firebase for pushing notifications for the purpose of future deployment. After the app is complete it would be fully responsive with the  ability to track and store order history and with live delivery updates. In future if the government of India recogonizes this application then we can use their Targeted Public Distribution System to only deliver to the family groups who are Below Poverty Line and are registered under the AAY or PMGKAY policy. 
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
