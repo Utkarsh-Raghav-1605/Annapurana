@@ -4,7 +4,9 @@ Video Demo Url:
 
 # How to Deploy
 In order to deploy the app any one of the following approaches can be taken:
-1. Download the apk file given in the repo and install it on a Android System.
+1. Download the apk file from the google drive with the link given below and install it on a Android System.
+       link :  https://drive.google.com/drive/folders/1bwkxJzQCnnJ2Y9Hp7QPhihzsfbPhwu8Z?usp=share_link
+       
 2. Clone the repo locally and execute it on Android SDK on chrome/edge browser.
 
 
