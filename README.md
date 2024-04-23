@@ -11,7 +11,7 @@ In order to deploy the app any one of the following approaches can be taken:
 
 
 ##Concise Description
-The UI/UX design is done using Flutter. In the backend we are using Laravel to host the json packages which we are converting to dart models inside our app. We are also working on integrating firebase for pushing notifications for the purpose of future deployment. After the app is complete it would be fully responsive with the  ability to track and store order history and with live delivery updates. In future if the government of India recogonizes this application then we can use their Targeted Public Distribution System to only deliver to the family groups who are Below Poverty Line and are registered under the AAY or PMGKAY policy. 
+The UI/UX design is done using Flutter. In the backend we are using Laravel to host the json packages which we are converting to dart models inside our app. We are also working on integrating firebase for pushing notifications for the purpose of future deployment. After the app is complete it would be fully responsive with the ability to track and store order history and with live delivery updates. In future if the government of India recognizes this application then we can use their Targeted Public Distribution System to only deliver to the family groups who are Below Poverty Line and are registered under the AAY or PMGKAY policy. 
 
 
 
