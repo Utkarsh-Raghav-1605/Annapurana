@@ -1,6 +1,4 @@
 # Annapurna
-# Creating a Hunger Free Society
-Video Demo Url:  
 
 # How to Deploy
 In order to deploy the app any one of the following approaches can be taken:
